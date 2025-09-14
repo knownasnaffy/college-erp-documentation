@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+announcement:
+  label: Announcement
+  permalink: /announcement
+  description: Official announcements and important updates about the ERP system.
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+getting-started:
+  label: Getting Started
+  permalink: /getting-started
+  description: Introductory posts and guides for new users of the ERP system.
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+features:
+  label: Features
+  permalink: /features
+  description: Detailed information about ERP system features and modules.
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+tips:
+  label: Tips & Tricks
+  permalink: /tips
+  description: Helpful tips and best practices for different users of the ERP.
+
+community:
+  label: Community
+  permalink: /community
+  description: News and posts about user feedback, community events, and collaboration.
