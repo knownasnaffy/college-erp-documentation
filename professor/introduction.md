@@ -16,15 +16,8 @@ Welcome to the BBSBEC ERP documentation site, designed specifically to help prof
 <!-- - [Viewing Student Data](/docs/professor/student-data) -->
 <!-- - [Submitting Grades](/docs/professor/grade-submission) -->
 
-## Core ERP Features for Professors
-
-- [Course Management](/docs/professor/features/course-management)
-- [Student Performance Tracking](/docs/professor/features/performance-tracking)
-- [Communication and Announcements](/docs/professor/features/communication)
-- [Grade Submission and Reporting](/docs/professor/features/grade-submission)
-
 ## Helpful External Resources
 
 - [College Official Website](https://www.bbsbec.edu)
 - [ERP System Homepage](https://erp.bbsbec.edu)
-- [Support and Contact Information](/docs/support/contact)
+- [Support and Contact Information](/contact)

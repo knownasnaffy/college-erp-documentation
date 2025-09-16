@@ -10,7 +10,7 @@ Logging into your BBSBEC ERP account is simple and secure. Follow the steps belo
 ## Step-by-Step Login
 
 1. Go to the [ERP Login Page](https://erp.bbsbec.edu.in/authentication/login).
-![](/img/2025-09-16-06-39-16.png)
+![](/images/common/login/2025-09-16-06-39-16.png)
 2. Enter your registered **email** and **password**.
 3. Click the **Login** button.
 4. If your credentials are correct, you’ll be redirected to your ERP dashboard.
@@ -24,7 +24,7 @@ If you can’t remember your password:
 
 1. On the login page, click the **Forgot password?** link
    _or go directly to the [Reset Password Page](https://erp.bbsbec.edu.in/authentication/reset-password)_.
-![](/img/2025-09-16-06-40-20.png)
+![](/images/common/login/2025-09-16-06-40-20.png)
 2. Enter your registered **email address** and submit.
 3. If your account exists, you’ll receive an **OTP (One Time Password)** via email.
 4. Enter the OTP on the page.
@@ -44,7 +44,7 @@ If you can’t remember your password:
 When you want to logout:
 
 1. On any page, click on the top right avatar button that will open up a dropdown menu.
-![](/img/2025-09-16-06-43-19.png) ![](/img/2025-09-16-06-44-22.png)
+![](/images/common/login/2025-09-16-06-43-19.png) ![](/images/common/login/2025-09-16-06-44-22.png)
 2. From this menu, select logout.
 3. You will be logged out and taken back to the login page
 
