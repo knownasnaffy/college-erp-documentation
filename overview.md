@@ -28,9 +28,9 @@ Documentation for department clerks managing records, schedules, and administrat
 Helpful links and instructions designed for students to get started and make the most of the ERP system:
 
 - [Student Login and Password Reset](/common/login)
-- [Enrollment and Course Registration](/student/enrollment)
-- [Accessing Grades and Results](/student/grades)
-- [Exam Schedules and Notifications](/student/exams)
+<!-- - [Enrollment and Course Registration](/student/enrollment) -->
+<!-- - [Accessing Grades and Results](/student/grades) -->
+<!-- - [Exam Schedules and Notifications](/student/exams) -->
 
 ## Helpful External Resources
 
