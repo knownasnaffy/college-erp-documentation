@@ -32,6 +32,10 @@ export default defineConfig({
             text: "Proctor Duty",
             link: "/professor/proctor-duty",
           },
+          {
+            text: "Managing Attendance",
+            link: "/professor/attendance",
+          },
         ],
       },
       {
