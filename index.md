@@ -5,19 +5,12 @@ hero:
   tagline: "Documentation for the internal ERP suite used by BBSBEC"
   actions:
     - theme: brand
-      text: Professor Documentation
-      link: /professor/introduction
+      text: Professor Resources
+      link: /overview.html#professor-resources
     - theme: alt
-      text: Student Documentation
-      link: /docs/student/intro
+      text: Clerk Resources
+      link: /overview.html#department-clerk-resources
     - theme: alt
-      text: Clerk Documentation
-      link: /docs/clerk/intro
-features:
-  - title: Easy Role-Based Access
-    details: Quickly navigate specific guides tailored for students, professors, and clerks.
-  - title: Comprehensive ERP Modules
-    details: Detailed documentation covering all ERP features, including academic and administration functions.
-  - title: Updated & Maintained
-    details: Regularly updated to reflect the latest ERP changes and improvements.
+      text: Student Resources
+      link: /overview.html#student-resources
 ---

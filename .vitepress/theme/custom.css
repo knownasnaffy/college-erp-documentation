@@ -5,3 +5,23 @@
   margin: 1rem auto;
   display: block;
 }
+
+.VPDoc iframe {
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+}
+
+/* Make it vertically centered but horizzontaly at the start/left */
+.VPHero.VPHomeHero {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+}
+
+.VPHero.VPHomeHero .container {
+  width: 100%;
+}
+
+.VPHero.VPHomeHero .tagline {
+  max-width: 100%;
+}
